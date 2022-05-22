@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emetisuccess
 - 👀 I’m interested in backend development projects
-- 🌱 I’m currently learning php,Laravel
+- 🌱 I’m currently learning LARAVEL
 - 💞️ I’m looking to collaborate on other developers for side projects
 - 📫 How to reach me emetisuccess@gmail.com
 
